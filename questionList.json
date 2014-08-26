@@ -151,7 +151,22 @@
 		 "version":"1"},
 		 {"question":"What was the worst thing you did as a child? Did you get caught?", 
 		 "imageUrl":"",
-		 "version":"1"}
+		 "version":"1"},
+		 {"question":"Could you explain about this picture?", 
+		 "imageUrl":"http://www.freeimages.com/assets/183108/1831074639/clown-1427894-m.jpg",
+		 "version":"2"},
+		 {"question":"Describe the picture", 
+		 "imageUrl":"http://www.freeimages.com/assets/28/278916/unique-mini-bus-497131-m.jpg",
+		 "version":"2"},
+		 {"question":"Would you rather be blind or deaf?", 
+		 "imageUrl":"",
+		 "version":"2"},
+		 {"question":"Which is worse for children: the Internet or TV?", 
+		 "imageUrl":"",
+		 "version":"2"},
+		 {"question":"Describe the picture", 
+		 "imageUrl":"http://www.freeimages.com/assets/19/187786/big-people-444083-m.jpg",
+		 "version":"2"}
 	]
 }
 
