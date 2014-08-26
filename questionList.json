@@ -166,7 +166,10 @@
 		 "version":"2"},
 		 {"question":"Describe the picture", 
 		 "imageUrl":"http://www.freeimages.com/assets/19/187786/big-people-444083-m.jpg",
-		 "version":"2"}
+		 "version":"2"},
+		 {"question":"What are some things you would like to accomplish before death?", 
+		 "imageUrl":"",
+		 "version":"3"},		 
 	]
 }
 
