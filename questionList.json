@@ -1,4 +1,9 @@
-{"question":"What are your strong points?  What is your weakness?", 
+{
+	"version": "6",
+	"releaseDate": "2016.05.20",
+	"questionList":[
+	
+	{"question":"What are your strong points?  What is your weakness?", 
 		"imageUrl":"",
 		"version":"6"},	
 		{"question":"What kind of people do you come across in your daily life?", 
@@ -286,3 +291,6 @@
 		 {"question":"What are some things you would like to accomplish before death?", 
 		 "imageUrl":"",
 		 "version":"3"}		 
+	]
+}
+		 
