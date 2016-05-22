@@ -1,8 +1,10 @@
 {
-	"version": "6",
+	"version": "7",
 	"releaseDate": "2016.05.20",
 	"questionList":[
-	
+	{"question":"Describe this picture", 
+		"imageUrl":"http://pixabay.com/static/uploads/photo/2016/04/16/06/19/truck-1332564_960_720.jpg",
+		"version":"7"},		
 	{"question":"What are your strong points?  What is your weakness?", 
 		"imageUrl":"",
 		"version":"6"},	
